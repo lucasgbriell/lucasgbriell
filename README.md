@@ -1,9 +1,11 @@
 ## Hi / Olá, I'm Lucas! 
 Bellow, you can check my socials medias
 
-<a href="https://www.linkedin.com/in/lucasgabrielhonorio" target="_blank"><img align="left" alt="Lucas | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" />
-<a href="https://www.instagram.com/lucasgbhonorio" target="_blank"><img align="left" alt=Lucas | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-256.png" />
-<a href="https://mobile.twitter.com/Lucasgbrielll" target="_blank"><img align="left" alt="Lucas | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Twitter_3_glyph_svg-256.png" />
+<a href="https://www.linkedin.com/in/lucasgabrielhonorio" target="_blank"><img align="left" alt="Lucas | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />
+  
+<a href="https://www.instagram.com/lucasgbhonorio" target="_blank"><img align="left" alt="Lucas | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-256.png" />
+  
+<a href="https://mobile.twitter.com/Lucasgbrielll" target="_blank"><img align="left" alt="Lucas | Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-256.png" />
 
 <br />
 <br />
